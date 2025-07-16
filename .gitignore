@@ -1,0 +1,10 @@
+# .gitignore
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+.idea/
+.vscode/
+__pycache__/
+*.tmp
+*.bak
