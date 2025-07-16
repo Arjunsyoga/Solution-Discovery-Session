@@ -16,4 +16,4 @@ Professional booking system for yoga discovery calls and consultations.
 2. Upload to GitHub repository
 3. Enable GitHub Pages in repository settings
 
-**Live Site:** https://your-username.github.io/repository-name
+**Live Site:** 
